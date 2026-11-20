@@ -1,0 +1,11 @@
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\bin\Debug\net8.0\NotificationSystem.Domain.deps.json
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\bin\Debug\net8.0\NotificationSystem.Domain.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\bin\Debug\net8.0\NotificationSystem.Domain.pdb
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.AssemblyInfoInputs.cache
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.AssemblyInfo.cs
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.csproj.CoreCompileInputs.cache
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\refint\NotificationSystem.Domain.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\NotificationSystem.Domain.pdb
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Domain\obj\Debug\net8.0\ref\NotificationSystem.Domain.dll

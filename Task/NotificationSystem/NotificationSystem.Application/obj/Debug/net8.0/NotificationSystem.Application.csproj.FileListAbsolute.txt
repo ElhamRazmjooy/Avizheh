@@ -1,0 +1,15 @@
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\bin\Debug\net8.0\NotificationSystem.Application.deps.json
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\bin\Debug\net8.0\NotificationSystem.Application.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\bin\Debug\net8.0\NotificationSystem.Application.pdb
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.AssemblyInfoInputs.cache
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.AssemblyInfo.cs
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.csproj.CoreCompileInputs.cache
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\refint\NotificationSystem.Application.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.pdb
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\ref\NotificationSystem.Application.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\bin\Debug\net8.0\NotificationSystem.Domain.dll
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\bin\Debug\net8.0\NotificationSystem.Domain.pdb
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\NotificationSystem.Application.csproj.AssemblyReference.cache
+D:\git\Avizheh\Task\NotificationSystem\NotificationSystem.Application\obj\Debug\net8.0\Notifica.F64D512B.Up2Date

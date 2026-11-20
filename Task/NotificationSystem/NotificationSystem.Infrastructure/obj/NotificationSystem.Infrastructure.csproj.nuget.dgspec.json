@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Infrastructure\\NotificationSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\NotificationSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\NotificationSystem.Application.csproj",
+        "projectName": "NotificationSystem.Application",
+        "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\NotificationSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\T A T\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T A T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj": {
+                "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj",
+        "projectName": "NotificationSystem.Domain",
+        "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\T A T\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T A T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Infrastructure\\NotificationSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Infrastructure\\NotificationSystem.Infrastructure.csproj",
+        "projectName": "NotificationSystem.Infrastructure",
+        "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Infrastructure\\NotificationSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\T A T\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T A T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\NotificationSystem.Application.csproj": {
+                "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Application\\NotificationSystem.Application.csproj"
+              },
+              "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj": {
+                "projectPath": "D:\\git\\Avizheh\\Task\\NotificationSystem\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

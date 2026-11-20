@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NotificationSystem.API.Controllers.NotificationsController",
+    "Method": "Create",
+    "RelativePath": "api/Notifications",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NotificationSystem.Application.Notifications.Commands.CreateNotificationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
